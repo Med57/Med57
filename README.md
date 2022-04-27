@@ -1,7 +1,8 @@
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/joypixels/291/flag-france_1f1eb-1f1f7.png" width="50" >
 <h2> 
-  👋 Hi I'm Medhy, developer from 
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/joypixels/291/flag-france_1f1eb-1f1f7.png" width="30" > Metz, France. 
+  👋 Hi I'm Medhy, developer from Metz, France. 
 </h2>
+
 
 <h3> languages :</h3>
   <p> 
